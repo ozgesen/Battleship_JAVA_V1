@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace pref="22" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="lblboslukyatay" min="-2" pref="500" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="btnUcakGemisi" alignment="0" min="-2" pref="250" max="-2" attributes="0"/>
+                          <Component id="btnKruvazor" alignment="0" min="-2" pref="200" max="-2" attributes="0"/>
+                          <Component id="btnDenizAlti" alignment="0" min="-2" pref="150" max="-2" attributes="0"/>
+                          <Component id="btnFirkateyn" alignment="0" min="-2" pref="150" max="-2" attributes="0"/>
+                          <Component id="btnMayinGemisi" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="label2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="label1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="txtKullanici" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="lblnick" min="-2" pref="120" max="-2" attributes="0"/>
+                                  <Component id="lblyon" min="-2" pref="33" max="-2" attributes="0"/>
+                                  <Component id="lblgemi" min="-2" pref="100" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="btnYeni" min="-2" pref="75" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="btnDondur" min="-2" pref="75" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                              <Component id="btnOyna" min="-2" pref="75" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="lbluyari" min="-2" pref="300" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                              <Component id="label3" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="lblkoord" min="-2" pref="70" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="48" max="-2" attributes="0"/>
+                              <Component id="board" min="-2" pref="500" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblboslukdikey1" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="lblboslukdikey" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="lblboslukdikey2" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="lblboslukdikey3" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="lblboslukdikey5" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="lblboslukdikey4" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="lblboslukdikey9" alignment="0" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="lblboslukdikey6" alignment="0" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="lblboslukdikey8" alignment="0" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="lblboslukdikey7" alignment="0" min="-2" pref="25" max="-2" attributes="0"/>
+                  <Component id="lblboslukdikey10" min="-2" pref="25" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="180" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txtKullanici" max="32767" attributes="0"/>
+                          <Component id="lblnick" pref="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="label1" min="-2" max="-2" attributes="0"/>
+                          <Component id="lblyon" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lblgemi" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="label2" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                              <Component id="btnUcakGemisi" min="-2" pref="50" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="btnKruvazor" min="-2" pref="50" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnDenizAlti" min="-2" pref="50" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnFirkateyn" min="-2" pref="50" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnMayinGemisi" min="-2" pref="50" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="btnYeni" alignment="3" min="-2" pref="75" max="-2" attributes="0"/>
+                          <Component id="btnDondur" alignment="3" min="-2" pref="75" max="-2" attributes="0"/>
+                          <Component id="btnOyna" alignment="3" min="-2" pref="75" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                              <Component id="lblboslukyatay" min="-2" pref="25" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="board" min="-2" pref="500" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
+                              <Component id="lblboslukdikey10" min="-2" pref="20" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="lblboslukdikey1" min="-2" pref="20" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                              <Component id="lblboslukdikey" min="-2" pref="20" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                              <Component id="lblboslukdikey2" min="-2" pref="20" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="lblboslukdikey3" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                              <Component id="lblboslukdikey5" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                              <Component id="lblboslukdikey4" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                              <Component id="lblboslukdikey9" min="-2" pref="20" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="lblboslukdikey6" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                              <Component id="lblboslukdikey8" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                              <Component id="lblboslukdikey7" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="lblkoord" min="-2" max="-2" attributes="0"/>
+                          <Component id="label3" min="-2" max="-2" attributes="0"/>
+                          <Component id="lbluyari" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="70" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="btnUcakGemisi">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="c0" green="c0" id="lightGray" palette="1" red="c0" type="palette"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Ucak Gemisi"/>
+        <Property name="name" type="java.lang.String" value="btnUcakGemisi" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnUcakGemisiActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="txtKullanici">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Kullan&#x131;c&#x131; Ad&#x131;"/>
+        <Property name="name" type="java.lang.String" value="txtKul" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnOyna">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="99" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Oyna"/>
+        <Property name="name" type="java.lang.String" value="bynOyna" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnOynaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnMayinGemisi">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="c0" green="c0" id="lightGray" palette="1" red="c0" type="palette"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="MayGemisi"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+        <Property name="name" type="java.lang.String" value="btnMayinGemisi" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnMayinGemisiActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnFirkateyn">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="c0" green="c0" id="lightGray" palette="1" red="c0" type="palette"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="F&#x131;rkateyn"/>
+        <Property name="name" type="java.lang.String" value="btnFirkateyn" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnFirkateynActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnDenizAlti">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="c0" green="c0" id="lightGray" palette="1" red="c0" type="palette"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Denizalt&#x131;"/>
+        <Property name="name" type="java.lang.String" value="btnDenizAlti" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnDenizAltiActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnKruvazor">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="c0" green="c0" id="lightGray" palette="1" red="c0" type="palette"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Kruvazor"/>
+        <Property name="name" type="java.lang.String" value="btnKruvazor" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnKruvazorActionPerformed"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JPanel" name="board">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="0" type="rgb"/>
+        </Property>
+        <Property name="name" type="java.lang.String" value="board" noResource="true"/>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignGridLayout">
+        <Property name="columns" type="int" value="10"/>
+        <Property name="rows" type="int" value="10"/>
+      </Layout>
+    </Container>
+    <Component class="javax.swing.JButton" name="btnDondur">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="D&#xf6;nd&#xfc;r"/>
+        <Property name="name" type="java.lang.String" value="btnDondur" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnDondurActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnYeni">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Yeni"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnYeniActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.Label" name="lblyon">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Yatay"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="label1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Konum : "/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="label2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Se&#xe7;ili gemi : "/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="lblgemi">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Yok"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="lblkoord">
+    </Component>
+    <Component class="java.awt.Label" name="label3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Se&#xe7;ili Koordinat :"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="lbluyari">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Dialog" size="14" style="1"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="lblnick">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Microsoft JhengHei" size="12" style="3"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="KulAdi"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="lblboslukyatay">
+    </Component>
+    <Component class="java.awt.Label" name="lblboslukdikey">
+      <Properties>
+        <Property name="alignment" type="int" value="2"/>
+        <Property name="text" type="java.lang.String" value="2"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="lblboslukdikey1">
+      <Properties>
+        <Property name="alignment" type="int" value="2"/>
+        <Property name="text" type="java.lang.String" value="1"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="lblboslukdikey2">
+      <Properties>
+        <Property name="alignment" type="int" value="2"/>
+        <Property name="text" type="java.lang.String" value="3"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="lblboslukdikey3">
+      <Properties>
+        <Property name="alignment" type="int" value="2"/>
+        <Property name="text" type="java.lang.String" value="4"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="lblboslukdikey4">
+      <Properties>
+        <Property name="alignment" type="int" value="2"/>
+        <Property name="text" type="java.lang.String" value="6"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="lblboslukdikey5">
+      <Properties>
+        <Property name="alignment" type="int" value="2"/>
+        <Property name="text" type="java.lang.String" value="5"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="lblboslukdikey6">
+      <Properties>
+        <Property name="alignment" type="int" value="2"/>
+        <Property name="text" type="java.lang.String" value="8"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="lblboslukdikey7">
+      <Properties>
+        <Property name="alignment" type="int" value="2"/>
+        <Property name="text" type="java.lang.String" value="10"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="lblboslukdikey8">
+      <Properties>
+        <Property name="alignment" type="int" value="2"/>
+        <Property name="text" type="java.lang.String" value="9"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="lblboslukdikey9">
+      <Properties>
+        <Property name="alignment" type="int" value="2"/>
+        <Property name="text" type="java.lang.String" value="7"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="lblboslukdikey10">
+      <Properties>
+        <Property name="alignment" type="int" value="2"/>
+        <Property name="text" type="java.lang.String" value="X:"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
